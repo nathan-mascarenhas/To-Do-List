@@ -6,11 +6,11 @@
 
 <h1 align="center">To-Do-List</h1>
 
-<div><img src="https://user-images.githubusercontent.com/75588037/132005803-d3f43d35-9460-4c89-86fc-30bc8296b7ba.png"></div>
+<p align="center"><img src="https://user-images.githubusercontent.com/75588037/132005803-d3f43d35-9460-4c89-86fc-30bc8296b7ba.png"></p>
 
-<h1 align="center">Responsividade</h1>
+---
 
-<p align="center"><img src="https://user-images.githubusercontent.com/75588037/131756468-6541e6c8-f0d1-4a77-9b53-dd0323a6ded5.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/75588037/132006049-b3f53bfe-8a37-4a23-881b-7b0de1c5102a.png"></p>
 
 
 🚀 Tecnologias
