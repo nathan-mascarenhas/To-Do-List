@@ -8,12 +8,11 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/75588037/132005803-d3f43d35-9460-4c89-86fc-30bc8296b7ba.png"></p>
 
----
-
 <p align="center"><img src="https://user-images.githubusercontent.com/75588037/132006049-b3f53bfe-8a37-4a23-881b-7b0de1c5102a.png"></p>
 
+---
 
-🚀 Tecnologias
+🚀 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -21,6 +20,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
-💻 Projeto
+💻 ## Projeto
 
 O To Do List é uma aplicação de lista de tarefas, onde é possível cadastrar e excluir tarefas e armazenar suas tarefas para checar em outra sessão
