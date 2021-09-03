@@ -6,7 +6,7 @@
 
 <h1 align="center">To-Do-List</h1>
 
-![image](https://user-images.githubusercontent.com/75588037/131756260-ccb60c9d-c57e-4b2d-9d40-bb56f85b2ecb.png)
+<div><img src="https://user-images.githubusercontent.com/75588037/132005803-d3f43d35-9460-4c89-86fc-30bc8296b7ba.png"></div>
 
 <h1 align="center">Responsividade</h1>
 
