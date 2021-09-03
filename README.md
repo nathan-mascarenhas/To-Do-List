@@ -1,7 +1,6 @@
  <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <h1 align="center">To-Do-List</h1>
@@ -12,7 +11,7 @@
 
 ---
 
-<h2>🚀Tecnologias</h2>
+## 🚀Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
