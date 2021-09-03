@@ -12,7 +12,7 @@
 
 ---
 
-🚀 ## Tecnologias
+🚀 <h2>Tecnologias</h2>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -20,6 +20,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
-💻 ## Projeto
+💻 <h2>Projeto</h2>
 
 O To Do List é uma aplicação de lista de tarefas, onde é possível cadastrar e excluir tarefas e armazenar suas tarefas para checar em outra sessão
