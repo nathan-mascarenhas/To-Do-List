@@ -3,7 +3,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<h1 align="center">To-Do-List</h1>
+<h1 align="center">ToDoList</h1>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/75588037/132005803-d3f43d35-9460-4c89-86fc-30bc8296b7ba.png"></p>
 
